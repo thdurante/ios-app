@@ -1,2 +1,0 @@
-# ios-app
-Web.
