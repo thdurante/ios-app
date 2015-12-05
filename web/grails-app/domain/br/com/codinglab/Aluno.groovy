@@ -8,7 +8,6 @@ class Aluno extends Usuario {
     static hasMany = [mensalidades: Mensalidade, dias: Dia]
 
     static constraints = {
-        personal nullable: false
         pasta nullable: true
     }
 

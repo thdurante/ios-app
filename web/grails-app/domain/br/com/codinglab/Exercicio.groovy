@@ -8,7 +8,6 @@ class Exercicio {
     Boolean feito
 
     static constraints = {
-        treino nullable: false
         nome nullable: false
         observacao nullable: true
         feito nullable: true

@@ -8,7 +8,6 @@ class Refeicao {
     Boolean seguiu
 
     static constraints = {
-        dieta nullable: false
         nome nullable: false
         observacao nullable: true
         seguiu nullable: true

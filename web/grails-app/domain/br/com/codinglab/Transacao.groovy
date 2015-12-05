@@ -8,7 +8,6 @@ class Transacao {
     String tipo
 
     static constraints = {
-        personal nullable: false
         valor nullable: false
         data nullable: false
         tipo nullable: false, inList: ['Entrada', 'Saída']

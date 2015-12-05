@@ -7,7 +7,6 @@ class Dieta {
     static hasMany = [refeicoes: Refeicao]
 
     static constraints = {
-        dia nullable: false
     }
 
 }

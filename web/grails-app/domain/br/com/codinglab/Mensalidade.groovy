@@ -8,7 +8,6 @@ class Mensalidade {
     Boolean pago
 
     static constraints = {
-        aluno nullable: false
         valor nullable: false
         competencia nullable: false
         pago nullable: true
