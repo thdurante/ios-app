@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2243ccf3-b4c8-479f-a27f-9758c3450fca" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/modelo de dominio aplicado - ios-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_Annotations$AnnotationChecker$1_2006.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_Annotations_6254.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_ConstructorBindingImpl_13930.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_DefaultConstructionProxyFactory$1_2160.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_DefaultConstructionProxyFactory_2000.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_InjectorImpl_34320.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_ProviderMethodsModule_7719.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_SingleFieldInjector_3751.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_SingleMethodInjector$1_1300.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_SingleMethodInjector_4029.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_TypeConverterBindingProcessor$5_2256.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_TypeConverterBindingProcessor_5802.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_internal_util_Classes_2349.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_matcher_Matchers_5242.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_google_inject_spi_InjectionPoint_18683.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_intellij_rt_execution_application_AppMain_4910.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_sun_tools_javac_Main_1557.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_sun_tools_javac_model_JavacElements_20629.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_sun_tools_javac_processing_JavacProcessingEnvironment$ServiceIterator_3349.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_sun_tools_javac_processing_JavacProcessingEnvironment_28380.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/com_sun_tools_javac_util_BaseFileManager_10346.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/grails_build_logging_GrailsConsole_19763.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/grails_util_Holders_7985.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/groovy_grape_Grape_5162.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/groovy_lang_GroovyShell_18444.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/groovy_lang_MetaClassRegistry$MetaClassCreationHandle_2886.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/groovy_util_AntBuilder_15204.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/groovy_xml_XmlUtil_9864.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/groovyjarjarantlr_ASTFactory_6276.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/groovyjarjarantlr_CharScanner_8286.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/groovyjarjarantlr_Utils_1849.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/javassist_util_proxy_ProxyFactory_29782.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/javax_servlet_http_HttpServlet_8296.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/jline_TerminalFactory_4721.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_change_ChangeFactory_3240.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_change_custom_CustomChangeWrapper_6255.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_database_DatabaseFactory_4285.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_database_typeconversion_TypeConverterFactory_2985.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_parser_ChangeLogParserFactory_3550.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_precondition_CustomPreconditionWrapper_4770.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_precondition_PreconditionFactory_2849.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_serializer_ChangeLogSerializerFactory_4207.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_serializer_core_string_StringChangeLogSerializer_7762.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_serializer_core_xml_XMLChangeLogSerializer_14710.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_servicelocator_ServiceLocator_9501.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_snapshot_DatabaseSnapshotGeneratorFactory_3991.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_sql_visitor_SqlVisitorFactory_2239.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_sqlgenerator_SqlGeneratorFactory_7806.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/liquibase_util_ObjectUtil_3343.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_catalina_connector_Connector_15735.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_catalina_deploy_NamingResources_24873.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_ivy_core_settings_IvySettings_42964.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_log4j_config_PropertySetter_8022.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_log4j_helpers_Loader_4244.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_log4j_helpers_OptionConverter_10730.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_log4j_spi_LoggingEvent_9937.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_maven_model_interpolation_StringSearchModelInterpolator$InterpolateObjectAction$CacheItem_4610.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_maven_model_interpolation_StringSearchModelInterpolator$InterpolateObjectAction$ListField_2678.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_maven_model_interpolation_StringSearchModelInterpolator$InterpolateObjectAction$MapField_3038.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_maven_model_interpolation_StringSearchModelInterpolator$InterpolateObjectAction$ObjectField_1869.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_maven_model_interpolation_StringSearchModelInterpolator$InterpolateObjectAction$StringField_1833.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tomcat_util_net_SSLImplementation_3036.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_AntClassLoader_24091.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_AntTypeDefinition_7441.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_ComponentHelper_24103.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$10_2345.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$11_2942.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$13_1951.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$3_1433.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$5_1586.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$7_1504.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$8_1670.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$9_1944.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$AddNestedCreator_2311.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$AttributeSetter_2415.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper$CreateNestedCreator_1174.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_IntrospectionHelper_27155.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_ProjectHelperRepository$ConstructingIterator_1722.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_ProjectHelperRepository_7631.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_Project_34948.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_TaskAdapter_4324.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_dispatch_DispatchUtils_3253.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_taskdefs_Execute_15331.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_taskdefs_ProcessDestroyer_4865.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_taskdefs_Property_12965.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_taskdefs_optional_native2ascii_SunNative2Ascii_3001.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_types_EnumeratedAttribute_2731.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_types_Mapper_5689.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_types_Path_13759.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_types_selectors_ExtendSelector_4695.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_types_selectors_modifiedselector_ModifiedSelector_15818.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_util_ClasspathUtils_5819.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_ant_util_ReflectUtil_3716.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_apache_tools_zip_ExtraFieldUtils_6721.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_antlr_parser_GroovyLexer_61632.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_ast_ClassNode_37700.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_ast_FieldNode_4637.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_classgen_AnnotationVisitor_13601.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_classgen_Verifier_40287.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_classgen_asm_MethodCaller_2645.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_classgen_asm_WriterController_13539.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_control_ParserPluginFactory_1977.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_control_ResolveVisitor_38115.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_cli_GrailsScriptRunner_31178.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_cli_api_BaseSettingsApi_17398.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_cli_support_ClasspathConfigurer_9884.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_cli_support_GrailsBuildEventListener_9661.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_cli_support_GrailsStarter_8744.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_AbstractGrailsClass_9426.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_AnnotationDomainClassArtefactHandler_1961.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_ArtefactHandlerAdapter_4855.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_ClassPropertyFetcher$GetterPropertyFetcher_1979.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_ClassPropertyFetcher_11162.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_DefaultGrailsControllerClass_13234.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_DomainClassArtefactHandler_5019.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_GrailsClassUtils_25895.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_commons_GrailsDomainConfigurationUtil_14761.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_compiler_DirectoryWatcher_3946.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_compiler_injection_GrailsAwareInjectionOperation_6460.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_io_support_GrailsResourceUtils_18011.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_orm_hibernate_cfg_AbstractGrailsDomainBinder_87416.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_plugins_AbstractGrailsPluginManager_17000.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_plugins_DefaultGrailsPluginManager_30892.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_plugins_DefaultGrailsPlugin_28004.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_plugins_GrailsVersionUtils_6472.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_plugins_log4j_web_util_Log4jConfigListener_3424.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_plugins_services_ServicesGrailsPlugin_5380.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_plugins_web_api_ControllersApi_20640.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_validation_ConstrainedProperty_27204.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_grails_web_servlet_mvc_GrailsWebRequest_16939.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_CachedClass$1$1_1336.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_CachedClass$2$1_1042.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_CachedClass$3$1_1456.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_CachedClass_12888.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_CachedConstructor_4586.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_CachedField_2208.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_CachedMethod_9886.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_ClassLoaderForClassArtifacts_3821.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_GeneratedMetaMethod$Proxy_3278.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_GroovyClassValueFactory_2167.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_stdclasses_CachedSAMClass$1_992.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_reflection_stdclasses_CachedSAMClass_7439.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_ConversionHandler_3546.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_DefaultGroovyMethods_283588.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_InvokerHelper_25009.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_callsite_AbstractCallSite_14775.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_callsite_CallSiteGenerator_10303.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_callsite_PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrapNoCoerce_1846.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_callsite_PogoMetaMethodSite$PogoCachedMethodSiteNoUnwrap_1980.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_callsite_PogoMetaMethodSite$PogoCachedMethodSite_2183.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_callsite_PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrapNoCoerce_1804.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_callsite_PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap_1911.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_callsite_PojoMetaMethodSite$PojoCachedMethodSite_1995.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_m12n_StandardPropertiesModuleFactory_2376.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_metaclass_MetaClassRegistryImpl$1_2317.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_metaclass_MetaClassRegistryImpl_18305.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_metaclass_ReflectionMetaMethod_2566.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_runtime_typehandling_DefaultTypeTransformation_20039.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_tools_javac_JavacJavaCompiler_8638.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_transform_ASTTransformationCollectorCodeVisitor_11202.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_transform_ASTTransformationVisitor_14195.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_transform_LogASTTransformation_6158.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_transform_stc_GroovyTypeCheckingExtensionSupport_15965.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_transform_stc_StaticTypeCheckingSupport_53461.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_transform_stc_StaticTypeCheckingVisitor_140097.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_transform_trait_Traits_11579.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_vmplugin_VMPluginFactory_1740.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_vmplugin_v5_Java5_20829.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_vmplugin_v5_PluginDefaultGroovyMethods_3741.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_groovy_vmplugin_v7_Java7_3293.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_plexus_interpolation_reflection_ClassMap_7200.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_codehaus_plexus_interpolation_reflection_ReflectionValueExtractor_3476.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_aether_impl_DefaultServiceLocator$Entry_4454.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_bean_BeanProperties_1662.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_bean_BeanPropertyField_3127.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_bean_BeanPropertySetter_3709.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_bean_DeclaredMembers$View$1_956.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_bean_DeclaredMembers$View$2_946.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_bean_DeclaredMembers$View$3_944.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_inject_LazyBeanEntry_4333.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_inject_QualifyingStrategy$4_1905.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_inject_TypeArguments_4895.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_plexus_ClassRealmUtils_2913.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_plexus_PlexusAnnotatedBeanModule$PlexusAnnotatedBeanSource_1348.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_plexus_PlexusPropertyBinder_3645.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_plexus_PlexusXmlBeanConverter_11330.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_eclipse_sisu_space_QualifiedTypeBinder_10066.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_grails_datastore_gorm_finders_DynamicFinder_18945.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_grails_plugins_web_rest_api_ControllersRestApi_22970.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_grails_plugins_web_rest_plugin_RestResponderGrailsPlugin_6133.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_hibernate_dialect_Dialect_35679.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_hibernate_mapping_Collection_18766.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_beans_BeanUtils_15685.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_beans_BeanWrapperImpl_32688.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_beans_ExtendedBeanInfoFactory_1508.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_beans_GenericTypeAwarePropertyDescriptor_5357.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_beans_TypeConverterDelegate_20244.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_beans_factory_config_DependencyDescriptor_7966.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_beans_factory_support_AbstractBeanDefinition_19205.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_$Proxy17_2849.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_MethodParameter_9366.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_SerializableTypeWrapper$MethodParameterTypeProvider_2775.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_SerializableTypeWrapper$TypeProxyInvocationHandler_2610.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_annotation_AnnotationUtils_15386.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_convert_TypeDescriptor_14131.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_convert_support_GenericConversionService_12019.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_convert_support_IdToEntityConverter_4236.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_convert_support_ObjectToObjectConverter_4868.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_io_support_PathMatchingResourcePatternResolver_15859.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_io_support_SpringFactoriesLoader_5194.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_type_classreading_AbstractRecursiveAnnotationVisitor_3781.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_type_classreading_AnnotationAttributesReadingVisitor_4202.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_type_classreading_RecursiveAnnotationAttributesVisitor_3533.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_core_type_filter_AnnotationTypeFilter_3383.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_orm_jpa_support_PersistenceAnnotationBeanPostProcessor_16047.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_util_ClassUtils_24290.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_util_ReflectionUtils_14293.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/org_springframework_web_util_UrlPathHelper_11364.bytes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ios-app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/modelo de dominio - ios-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.slcache/.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/AlunoController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/DiaController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/DietaController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/ExercicioController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/MensalidadeController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/PersonalController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/RefeicaoController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/TransacaoController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/controllers/br/com/codinglab/TreinoController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Aluno.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Dia.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Dieta.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Exercicio.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Mensalidade.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Personal.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Refeicao.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Transacao.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Treino.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/grails-app/domain/br/com/codinglab/Usuario.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/AlunoControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/AlunoSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/DiaControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/DiaSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/DietaControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/DietaSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/ExercicioControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/ExercicioSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/MensalidadeControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/MensalidadeSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/PersonalControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/PersonalSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/RefeicaoControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/RefeicaoSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/TransacaoControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/TransacaoSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/TreinoControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/TreinoSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/unit/br/com/codinglab/UsuarioSpec.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/.idea/misc.xml" afterPath="$PROJECT_DIR$/web/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/web/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/web/grails-app/conf/BuildConfig.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/web/grails-app/conf/DataSource.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/web-grailsPlugins.iml" afterPath="$PROJECT_DIR$/web/web-grailsPlugins.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/web.iml" afterPath="$PROJECT_DIR$/web/web.iml" />
+    </list>
+    <ignored path="ios-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ios-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ios-app" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2243ccf3-b4c8-479f-a27f-9758c3450fca" name="Default" comment="" />
+      <created>1449341354201</created>
+      <option name="number" value="Default" />
+      <updated>1449341354201</updated>
+      <workItem from="1449341355356" duration="753000" />
+      <workItem from="1449350628617" duration="216000" />
+    </task>
+    <task id="LOCAL-00001" summary="Criação da estrutura inicial do módulo web">
+      <created>1449341484136</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1449341484136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="969000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Criação da estrutura inicial do módulo web" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação da estrutura inicial do módulo web" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/web.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20767888">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41535777">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/grails-app/conf/DataSource.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
