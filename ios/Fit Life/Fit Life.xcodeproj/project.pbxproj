@@ -7,13 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23A2165C1C13CFC50096B92A /* Aluno.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A2165B1C13CFC50096B92A /* Aluno.swift */; };
+		23A216661C13CFD30096B92A /* Dia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A2165D1C13CFD30096B92A /* Dia.swift */; };
+		23A216671C13CFD30096B92A /* Dieta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A2165E1C13CFD30096B92A /* Dieta.swift */; };
+		23A216681C13CFD30096B92A /* Exercicio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A2165F1C13CFD30096B92A /* Exercicio.swift */; };
+		23A216691C13CFD30096B92A /* Mensalidade.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A216601C13CFD30096B92A /* Mensalidade.swift */; };
+		23A2166A1C13CFD30096B92A /* Personal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A216611C13CFD30096B92A /* Personal.swift */; };
+		23A2166B1C13CFD30096B92A /* Refeicao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A216621C13CFD30096B92A /* Refeicao.swift */; };
+		23A2166C1C13CFD30096B92A /* Transacao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A216631C13CFD30096B92A /* Transacao.swift */; };
+		23A2166D1C13CFD30096B92A /* Treino.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A216641C13CFD30096B92A /* Treino.swift */; };
+		23A2166E1C13CFD30096B92A /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A216651C13CFD30096B92A /* Usuario.swift */; };
+		23A216701C13D01B0096B92A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A2166F1C13D01B0096B92A /* LoginViewController.swift */; };
 		23A9A2391C136ACF005F3287 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A9A2381C136ACF005F3287 /* AppDelegate.swift */; };
 		23A9A2411C136ACF005F3287 /* Fit_Life.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 23A9A23F1C136ACF005F3287 /* Fit_Life.xcdatamodeld */; };
 		23A9A2431C136ACF005F3287 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23A9A2421C136ACF005F3287 /* Assets.xcassets */; };
 		23A9A2461C136AD0005F3287 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23A9A2441C136AD0005F3287 /* LaunchScreen.storyboard */; };
 		23A9A2511C136AD1005F3287 /* Fit_LifeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A9A2501C136AD1005F3287 /* Fit_LifeTests.swift */; };
 		23A9A25C1C136AD2005F3287 /* Fit_LifeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A9A25B1C136AD2005F3287 /* Fit_LifeUITests.swift */; };
-		23A9A26E1C136C21005F3287 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A9A26D1C136C21005F3287 /* ViewController.swift */; };
 		23A9A2701C136CC4005F3287 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23A9A26F1C136CC4005F3287 /* Main.storyboard */; };
 		6DEDA2E24FCA699E398C4ADA /* Pods_Fit_Life.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA92734B79BF5377493127C /* Pods_Fit_Life.framework */; };
 /* End PBXBuildFile section */
@@ -37,6 +47,17 @@
 
 /* Begin PBXFileReference section */
 		0F31AA62196CB7B0FB226A63 /* Pods-Fit Life.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fit Life.release.xcconfig"; path = "Pods/Target Support Files/Pods-Fit Life/Pods-Fit Life.release.xcconfig"; sourceTree = "<group>"; };
+		23A2165B1C13CFC50096B92A /* Aluno.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Aluno.swift; sourceTree = "<group>"; };
+		23A2165D1C13CFD30096B92A /* Dia.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dia.swift; sourceTree = "<group>"; };
+		23A2165E1C13CFD30096B92A /* Dieta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dieta.swift; sourceTree = "<group>"; };
+		23A2165F1C13CFD30096B92A /* Exercicio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exercicio.swift; sourceTree = "<group>"; };
+		23A216601C13CFD30096B92A /* Mensalidade.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mensalidade.swift; sourceTree = "<group>"; };
+		23A216611C13CFD30096B92A /* Personal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Personal.swift; sourceTree = "<group>"; };
+		23A216621C13CFD30096B92A /* Refeicao.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Refeicao.swift; sourceTree = "<group>"; };
+		23A216631C13CFD30096B92A /* Transacao.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Transacao.swift; sourceTree = "<group>"; };
+		23A216641C13CFD30096B92A /* Treino.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Treino.swift; sourceTree = "<group>"; };
+		23A216651C13CFD30096B92A /* Usuario.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
+		23A2166F1C13D01B0096B92A /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		23A9A2351C136ACF005F3287 /* Fit Life.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fit Life.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A9A2381C136ACF005F3287 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23A9A2401C136ACF005F3287 /* Fit_Life.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Fit_Life.xcdatamodel; sourceTree = "<group>"; };
@@ -49,7 +70,6 @@
 		23A9A2571C136AD1005F3287 /* Fit LifeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fit LifeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A9A25B1C136AD2005F3287 /* Fit_LifeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fit_LifeUITests.swift; sourceTree = "<group>"; };
 		23A9A25D1C136AD2005F3287 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		23A9A26D1C136C21005F3287 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		23A9A26F1C136CC4005F3287 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		53A4F210423FECA746BA4F6D /* Pods-Fit Life.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fit Life.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Fit Life/Pods-Fit Life.debug.xcconfig"; sourceTree = "<group>"; };
 		EEA92734B79BF5377493127C /* Pods_Fit_Life.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Fit_Life.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -81,6 +101,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		23A2165A1C13CFA50096B92A /* models */ = {
+			isa = PBXGroup;
+			children = (
+				23A2165B1C13CFC50096B92A /* Aluno.swift */,
+				23A2165D1C13CFD30096B92A /* Dia.swift */,
+				23A2165E1C13CFD30096B92A /* Dieta.swift */,
+				23A2165F1C13CFD30096B92A /* Exercicio.swift */,
+				23A216601C13CFD30096B92A /* Mensalidade.swift */,
+				23A216611C13CFD30096B92A /* Personal.swift */,
+				23A216621C13CFD30096B92A /* Refeicao.swift */,
+				23A216631C13CFD30096B92A /* Transacao.swift */,
+				23A216641C13CFD30096B92A /* Treino.swift */,
+				23A216651C13CFD30096B92A /* Usuario.swift */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
 		23A9A22C1C136ACF005F3287 = {
 			isa = PBXGroup;
 			children = (
@@ -106,9 +143,9 @@
 		23A9A2371C136ACF005F3287 /* Fit Life */ = {
 			isa = PBXGroup;
 			children = (
+				23A2165A1C13CFA50096B92A /* models */,
 				23A9A26B1C136B8D005F3287 /* viewcontrollers */,
 				23A9A26A1C136B82005F3287 /* views */,
-				23A9A2691C136B75005F3287 /* models */,
 				23A9A2381C136ACF005F3287 /* AppDelegate.swift */,
 				23A9A2421C136ACF005F3287 /* Assets.xcassets */,
 				23A9A2441C136AD0005F3287 /* LaunchScreen.storyboard */,
@@ -136,13 +173,6 @@
 			path = "Fit LifeUITests";
 			sourceTree = "<group>";
 		};
-		23A9A2691C136B75005F3287 /* models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = models;
-			sourceTree = "<group>";
-		};
 		23A9A26A1C136B82005F3287 /* views */ = {
 			isa = PBXGroup;
 			children = (
@@ -154,7 +184,7 @@
 		23A9A26B1C136B8D005F3287 /* viewcontrollers */ = {
 			isa = PBXGroup;
 			children = (
-				23A9A26D1C136C21005F3287 /* ViewController.swift */,
+				23A2166F1C13D01B0096B92A /* LoginViewController.swift */,
 			);
 			path = viewcontrollers;
 			sourceTree = "<group>";
@@ -361,8 +391,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23A9A26E1C136C21005F3287 /* ViewController.swift in Sources */,
+				23A216701C13D01B0096B92A /* LoginViewController.swift in Sources */,
+				23A2166E1C13CFD30096B92A /* Usuario.swift in Sources */,
+				23A2166D1C13CFD30096B92A /* Treino.swift in Sources */,
+				23A2166B1C13CFD30096B92A /* Refeicao.swift in Sources */,
+				23A2165C1C13CFC50096B92A /* Aluno.swift in Sources */,
 				23A9A2411C136ACF005F3287 /* Fit_Life.xcdatamodeld in Sources */,
+				23A2166A1C13CFD30096B92A /* Personal.swift in Sources */,
+				23A216691C13CFD30096B92A /* Mensalidade.swift in Sources */,
+				23A216671C13CFD30096B92A /* Dieta.swift in Sources */,
+				23A216681C13CFD30096B92A /* Exercicio.swift in Sources */,
+				23A216661C13CFD30096B92A /* Dia.swift in Sources */,
+				23A2166C1C13CFD30096B92A /* Transacao.swift in Sources */,
 				23A9A2391C136ACF005F3287 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
