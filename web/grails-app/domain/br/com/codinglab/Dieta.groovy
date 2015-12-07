@@ -2,8 +2,7 @@ package br.com.codinglab
 
 class Dieta {
 
-    Dia dia
-
+    static belongsTo = [dia: Dia]
     static hasMany = [refeicoes: Refeicao]
 
     static constraints = {

@@ -12,8 +12,12 @@ abstract class Usuario {
         nome nullable: false
         cpf nullable: false, unique: true
         senha nullable: false
-        email nullable: false
+        email nullable: false, unique: true
         telefone nullable: true
+    }
+
+    String toString() {
+        nome
     }
 
 }

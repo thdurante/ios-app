@@ -2,9 +2,9 @@ package br.com.codinglab
 
 class Aluno extends Usuario {
 
-    Personal personal
     String pasta
 
+    static belongsTo = [personal: Personal]
     static hasMany = [mensalidades: Mensalidade, dias: Dia]
 
     static constraints = {

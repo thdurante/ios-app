@@ -2,8 +2,7 @@ package br.com.codinglab
 
 class Treino {
 
-    Dia dia
-
+    static belongsTo = [dia: Dia]
     static hasMany = [exercicios: Exercicio]
 
     static constraints = {
