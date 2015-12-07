@@ -20,7 +20,7 @@ class AlunoController {
     }
 
     def login() {
-        render alunoService.login(params.cpf, params.senha)
+        render alunoService.login(request.JSON.cpf, request.JSON.senha)
     }
 
 }
