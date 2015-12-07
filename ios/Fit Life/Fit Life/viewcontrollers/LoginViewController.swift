@@ -7,9 +7,15 @@
 //
 
 import UIKit
+import Alamofire
+import CryptoSwift
+
 
 class LoginViewController: UIViewController {
 
+    @IBOutlet weak var cpfTextField: UITextField!
+    @IBOutlet weak var senhaTextField: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -30,6 +36,44 @@ class LoginViewController: UIViewController {
         UIGraphicsEndImageContext()
         
         self.view.backgroundColor = UIColor(patternImage: image)
+    }
+    
+    @IBAction
+    func login() {
+        
+        print("CPF: \(cpfTextField.text!)")
+        print("Senha: \(senhaTextField.text!)")
+        
+        // Gerando o hash da senha
+        let hash = senhaTextField.text!.sha1()
+        print("Hash da senha: \(hash)")
+        
+        
+        let parametros = [
+            "cpf": cpfTextField.text!,
+            "senha": hash
+        ]
+        
+        Alamofire.request(.POST, "https://fitlifeios.herokuapp.com/aluno/login", parameters: parametros, encoding: .JSON)
+            .responseJSON { response in
+                print("Response: \(response)")
+                print("Status: \(response.response!.statusCode)")
+                
+                // Recuperando os dados do JSON de retorno
+                let jsonRetorno = response.result.value!
+                print("Mensagem: \(jsonRetorno.valueForKey("mensagem")!)")
+                print("Status: \(jsonRetorno.valueForKey!("status")!)")
+                
+                //if response.response?.statusCode ==
+            }
+        
+        let condicao = true
+        
+        if condicao {
+            performSegueWithIdentifier("loginOk", sender: self)
+        }
+        
+        print("ok clicado")
     }
     
 
